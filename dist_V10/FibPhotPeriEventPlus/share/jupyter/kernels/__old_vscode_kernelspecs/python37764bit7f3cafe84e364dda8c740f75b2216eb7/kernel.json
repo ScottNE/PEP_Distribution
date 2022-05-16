@@ -1,0 +1,39 @@
+{
+  "argv": [
+    "C:\\Users\\scottngevans\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "Python 3.7.7 64-bit",
+  "language": "python",
+  "env": {},
+  "metadata": {
+    "interpreter": {
+      "architecture": 3,
+      "path": "C:\\Users\\scottngevans\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.7-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.7-final"
+      },
+      "sysPrefix": "C:\\Users\\scottngevans\\AppData\\Local\\Programs\\Python\\Python37",
+      "fileHash": "67377205f82b2e413bd1050ac7d1353aeef194343e6eeee3c63e646f839b7421f4970f2c6a88a19cb6e07c59dd2e1c52781c72f3307b9ffd4072162eb7d6d567",
+      "companyDisplayName": "Python Software Foundation",
+      "type": "Unknown",
+      "displayName": "Python 3.7.7 64-bit"
+    }
+  }
+}

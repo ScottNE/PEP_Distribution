@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "C:\\Users\\psychadmin\\anaconda3\\envs\\guppy\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "guppy",
+ "language": "python"
+}
